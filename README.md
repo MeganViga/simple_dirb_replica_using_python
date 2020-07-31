@@ -26,7 +26,7 @@ optional arguments:
 ```
 
 ## Example
-1.When you specified application protocol in url?
+1.Specifying application protocol in url:
 ```bash
 >> python Dirb.py https://github.com/MeganViga/dirbtest/tree/master/ tested_simple_wl.txt
 ```
@@ -55,7 +55,7 @@ List of available Directories
 3. https://github.com/MeganViga/dirbtest/tree/master/files
 4. https://github.com/MeganViga/dirbtest/tree/master/photos
 ```
-2.When you did not specify any application protocol in url?
+2.When apllication protocol not sepcified in url
 ```bash
 >> python Dirb.py github.com/MeganViga/dirbtest/tree/master/ tested_simple_wl.txt
 ```
