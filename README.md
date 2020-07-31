@@ -1,4 +1,4 @@
-# Simple_Dirbpy
+# Dirbpy
 
 Dirbpy is a simple url directory bruteforcing tool using word list.
 
@@ -11,11 +11,11 @@ pip3 install -r requirements.txt
 ```
 Then run the tool
 ```bash
-python dirb.py -h
+python Dirb.py -h
 ```
 Output
 ```bash
-usage: dirb.py [-h] url wordlist
+usage: Dirb.py [-h] url wordlist
 
 positional arguments:
   url         url of the desired website
