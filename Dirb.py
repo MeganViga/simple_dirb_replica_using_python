@@ -1,7 +1,6 @@
 import os
 import requests
 import sys
-from sys import argv
 import argparse
 try:
     parser = argparse.ArgumentParser()
