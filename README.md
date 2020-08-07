@@ -1,6 +1,6 @@
 # Dirbpy
 
-Dirbpy is a simple url directory bruteforcing tool using word list.
+Dirbpy is a simple web content scanner which uses dictionary based attack.
 
 ## Installation
 
